@@ -1,0 +1,118 @@
+# app
+#EXTM3U
+#EXTINF:-1    group-title="Streams",NBC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
+#EXTINF:-1    group-title="Streams",A&E
+http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8
+#EXTINF:-1    group-title="Streams",ABC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8
+#EXTINF:-1    group-title="Streams",AMC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
+#EXTINF:-1    group-title="Streams",Bravo US
+http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
+#EXTINF:-1    group-title="Streams",E! US
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+#EXTINF:-1    group-title="Streams",Fox US
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
+#EXTINF:-1    group-title="Streams",FX US
+http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
+#EXTINF:-1    group-title="Streams",SYFY US
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
+#EXTINF:-1    group-title="Streams",Spike US
+http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
+#EXTINF:-1    group-title="Streams",TBS US
+http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
+#EXTINF:-1    group-title="Streams",LMN
+http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8
+#EXTINF:-1    group-title="Streams",TNT US
+http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
+#EXTINF:-1    group-title="Streams",Comedy Central US
+http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8
+#EXTINF:-1    group-title="Streams",Lifetime US
+http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8
+#EXTINF:-1    group-title="Streams",Hallmark Channel US
+http://46.166.162.35:9090/load/b0922f3fa8aa/16.m3u8
+#EXTINF:-1    group-title="Streams",USA Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8
+#EXTINF:-1    group-title="Streams",TLC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8
+#EXTINF:-1    group-title="Streams",HBO East
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
+#EXTINF:-1    group-title="Streams",HBO Comedy
+http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8
+#EXTINF:-1    group-title="Streams",HBO Zone
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
+#EXTINF:-1    group-title="Streams",HBO Signature
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
+#EXTINF:-1    group-title="Streams",Cinemax East
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
+#EXTINF:-1    group-title="Streams",Cinemax 5 StarMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8
+#EXTINF:-1    group-title="Streams",Cinemax ActionMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
+#EXTINF:-1    group-title="Streams",Showtime EAST
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1    group-title="Streams",Showtime 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1    group-title="Streams",Showtime Showcase
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+#EXTINF:-1    group-title="Streams",Starz East
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
+#EXTINF:-1    group-title="Streams",Starz Edge
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1    group-title="Streams",Starz Cinema
+http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
+#EXTINF:-1    group-title="Streams",Starz Encore
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+#EXTINF:-1    group-title="Streams",HISTORY US
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
+#EXTINF:-1    group-title="Streams",H2 USA
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
+#EXTINF:-1    group-title="Streams",Animal Planet US
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF:-1    group-title="Streams",Discovery Channel US
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
+#EXTINF:-1    group-title="Streams",National Geographic US
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
+#EXTINF:-1    group-title="Streams",Nat Geo Wild US
+http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
+#EXTINF:-1    group-title="Streams",Investigation Discovery  US
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+#EXTINF:-1    group-title="Streams",NBC Sports US
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+#EXTINF:-1    group-title="Streams",ESPN US
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
+#EXTINF:-1    group-title="Streams",ESPN 2 US
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
+#EXTINF:-1    group-title="Streams",FOX Sports 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1    group-title="Streams",FOX Sports 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
+#EXTINF:-1    group-title="Streams",NBA TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
+#EXTINF:-1    group-title="Streams",MLB Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
+#EXTINF:-1    group-title="Streams",NFL Network  Now
+http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
+#EXTINF:-1    group-title="Streams",WWE Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
+#EXTINF:-1    group-title="Streams",NHL US
+http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8
+#EXTINF:-1    group-title="Streams",TSN1
+http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8
+#EXTINF:-1    group-title="Streams",TSN2
+http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8
+#EXTINF:-1    group-title="Streams",TSN3
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
+#EXTINF:-1    group-title="Streams",TSN4
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
+#EXTINF:-1    group-title="Streams",TSN5
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
+#EXTINF:-1    group-title="Streams",SPORTSNET ONE
+http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8
+#EXTINF:-1    group-title="Streams",SPORTSNET 360
+http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
+#EXTINF:-1    group-title="Streams",SPORTSNET WORLD
+http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8
+#EXTINF:-1    group-title="Streams",SPORTSNET ONTARIO
+http://46.166.162.35:9090/load/b0922f3fa8aa/60.m3u8
